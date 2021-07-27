@@ -7,5 +7,5 @@ To get the copy of the program, please send your request to mfsidiq@gmail.com
 
 ![VEP3](https://github.com/acbari/VEP3/blob/main/images/vep3.png?raw=true)
 
-![building block](https://github.com/acbari/VEP3/blob/main/VEP3/images/bb.png?raw=true)
+![building block](https://github.com/acbari/VEP3/blob/main/images/bb.png?raw=true)
 
