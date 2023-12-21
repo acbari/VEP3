@@ -1,8 +1,8 @@
 The project has been merged into P4NE
 
-Obselete
+# Obselete
 
-# VEP3
+VEP3
 Visual Editor for P4-based Programmable Parser
 
 Muhammad Fajar Sidiq, Mega Pratama, Akbari Indra Basuki, "Visual Editor for Streamlining P4-based Programmable Parser Development," IEEE Comnetsat 2021.
